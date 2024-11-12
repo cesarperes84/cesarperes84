@@ -12,7 +12,7 @@ https://www.linkedin.com/in/cesarperes84/
 
 
 
-🛠️  Linguagens e Ferramentas
+🛠️  Languages and Tools
 
 ![image](https://user-images.githubusercontent.com/12650312/196516756-3ef64169-d661-4dfc-ae29-71df62d7a1bc.png)![image](https://user-images.githubusercontent.com/12650312/196516824-83ee9e44-77bf-4207-8672-82fef56944e0.png)![image](https://user-images.githubusercontent.com/12650312/196516844-dcf3cf33-f298-40f4-b4ea-bdc77fa216eb.png)
 ![image](https://user-images.githubusercontent.com/12650312/196516869-a03ee59e-2df6-4c4c-80ac-2995c8245287.png)
