@@ -5,6 +5,8 @@ FrontEnd Developer, based on ReactJS, Typescript and NodeJS
 
 Conect me:
 
+https://www.cperes.com.br
+
 https://www.linkedin.com/in/cesarperes84/
 
 📫 How to reach me: cperes84@gmail.com
